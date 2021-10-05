@@ -17,6 +17,7 @@
         $products['Toaster']=75;
 
         echo "<p>A car costs $".$products['Car']."</p>";
+        // echo "<p>A car costs $".$products['Car']."</p>";
     ?>
   </body>
 </html>
